@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(rgb(138, 43, 226, 1), rgb(138, 43, 226, 0));
+}
+
+select {
+    border: 3px solid black;
+}
+
+.number {
+    border: 3px solid black;
+    margin-bottom: 5px;
+}
+
+.submit {
+    border: 3px solid black;
+    background-color: white;
+}
+
+.submit:hover {
+    color: white;
+    background-color: black;
+}
